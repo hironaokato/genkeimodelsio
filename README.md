@@ -1,4 +1,4 @@
-# models.autodesk.io sample
+# my practice of models.autodesk.io sample
 
 [![build status](https://api.travis-ci.org/cyrillef/models.autodesk.io.png)](https://travis-ci.org/cyrillef/models.autodesk.io)
 [![Node.js](https://img.shields.io/badge/Node.js-6.3.1-blue.svg)](https://nodejs.org/)
